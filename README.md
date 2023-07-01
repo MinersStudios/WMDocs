@@ -14,7 +14,7 @@
   </a>
 </p>
 <p align="center">
-  Collection of WhoMine server documentation
+  Collection of WhoMine server documentation<br>
   (Project is in development, so there is shit)
 </p>
 <br>
