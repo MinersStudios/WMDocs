@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     <a href="https://minersstudios.com">
-      <img alt="MinersStudios" src="https://raw.githubusercontent.com/MinersStudios/.github/main/assets/logos/logo_white.svg" width="128">
+      <img alt="MinersStudios" src="https://raw.githubusercontent.com/MinersStudios/.github/main/assets/logos/logo_ua.svg" width="128">
     </a>
     <br>
     Miners Studios
