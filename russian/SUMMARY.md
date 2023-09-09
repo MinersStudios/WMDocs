@@ -2,34 +2,35 @@
 
 * [Начало](README.md)
 
-## 🤓 Новичкам
+## 🤓 Новичкам <a href="#for-newcomers" id="for-newcomers"></a>
 
-* [Начать игру](novichkam/nachat-igru.md)
-* [Первый заход](novichkam/pervyi-zakhod.md)
+* [Начать игру](for-newcomers/start-playing.md)
+* [Первый заход](for-newcomers/first-join.md)
 
-## 📚 Правила
+## 📚 Правила <a href="#rules" id="rules"></a>
 
-* [Закон](pravila/zakon.md)
-* [Нон-РП правила](pravila/non-rp-pravila.md)
+* [РП Правила](rules/rp-pravila.md)
+* [Нон-РП Правила](rules/non-rp-rules.md)
+* [Закон](rules/law.md)
 
-## 🛠 Моды и текстуры
+## 🛠 Моды и текстуры <a href="#mods-and-textures" id="mods-and-textures"></a>
 
-* [Голосовой чат](mody-i-tekstury/golosovoi-chat.md)
-* [Эмоции](mody-i-tekstury/emocii.md)
-* [Текстурпак](mody-i-tekstury/teksturpak.md)
+* [Голосовой чат](mods-and-textures/voice-chat.md)
+* [Эмоции](mods-and-textures/emotes.md)
+* [Текстурпак](mods-and-textures/texturepack.md)
 
-## 💡 Механики и команды
+## 💡 Механики и команды <a href="#mechanics-and-commands" id="mechanics-and-commands"></a>
 
-* [Чат](mekhaniki-i-komandy/chat.md)
-* [Интерфейс](mekhaniki-i-komandy/interfeis.md)
-* [Кастомный ассортимент](mekhaniki-i-komandy/kastomnyi-assortiment/README.md)
-  * [Блоки](mekhaniki-i-komandy/kastomnyi-assortiment/bloki.md)
-  * [Декорации](mekhaniki-i-komandy/kastomnyi-assortiment/dekoracii.md)
-  * [Предметы](mekhaniki-i-komandy/kastomnyi-assortiment/predmety.md)
-* [Команды](mekhaniki-i-komandy/komandy/README.md)
-  * [РП Команды](mekhaniki-i-komandy/komandy/rp-komandy.md)
-  * [Другие](mekhaniki-i-komandy/komandy/drugie.md)
-  * [Админам](mekhaniki-i-komandy/komandy/adminam.md)
+* [Чат](mechanics-and-commands/chat.md)
+* [Интерфейс](mechanics-and-commands/interface.md)
+* [Кастомный ассортимент](mechanics-and-commands/custom-assortment/README.md)
+  * [Блоки](mechanics-and-commands/custom-assortment/blocks.md)
+  * [Декорации](mechanics-and-commands/custom-assortment/decorations.md)
+  * [Предметы](mechanics-and-commands/custom-assortment/items.md)
+* [Команды](mechanics-and-commands/commands/README.md)
+  * [РП Команды](mechanics-and-commands/commands/rp-commands.md)
+  * [Другие](mechanics-and-commands/commands/others.md)
+  * [Админам](mechanics-and-commands/commands/for-admins.md)
 
 ***
 
