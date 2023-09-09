@@ -9,7 +9,7 @@
 
 ## 📚 Правила <a href="#rules" id="rules"></a>
 
-* [РП Правила](rules/rp-pravila.md)
+* [РП Правила](rules/rp-rules.md)
 * [Нон-РП Правила](rules/non-rp-rules.md)
 * [Закон](rules/law.md)
 
