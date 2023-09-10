@@ -9,8 +9,9 @@
 
 ## 📚 Rules
 
-* [Law](rules/law.md)
+* [RP Rules](rules/rp-rules.md)
 * [Non-RP rules](rules/non-rp-rules.md)
+* [Law](rules/law.md)
 
 ## 🛠 Mods and Textures
 
