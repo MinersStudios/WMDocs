@@ -1,11 +1,8 @@
 # Table of contents
 
 * [Початок](README.md)
-
-## 🤓 Новачкам <a href="#for-newcomers" id="for-newcomers"></a>
-
-* [Розпочати гру](for-newcomers/start-playing.md)
-* [Перший захід](for-newcomers/first-join.md)
+  * [Розпочати гру](getting-started/start-playing.md)
+* [Термінологія](terminology.md)
 
 ## 📚 Правила <a href="#rules" id="rules"></a>
 
@@ -17,7 +14,7 @@
 
 * [Голосовий чат](mods-and-textures/voice-chat.md)
 * [Емоції](mods-and-textures/emotes.md)
-* [Текстурпак](mods-and-textures/texturepack.md)
+* [Ресурспак](mods-and-textures/resourcepack.md)
 
 ## 💡 Механіки та Команди <a href="#mechanics-and-commands" id="mechanics-and-commands"></a>
 
