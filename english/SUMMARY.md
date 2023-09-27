@@ -1,11 +1,8 @@
 # Table of contents
 
 * [Getting started](README.md)
-
-## 🤓 For newcomers
-
-* [Start playing](for-newcomers/start-playing.md)
-* [First join](for-newcomers/first-join.md)
+  * [Start playing](getting-started/start-playing.md)
+* [Terminology](terminology.md)
 
 ## 📚 Rules
 
@@ -17,7 +14,7 @@
 
 * [Voice chat](mods-and-textures/voice-chat.md)
 * [Emotes](mods-and-textures/emotes.md)
-* [Texturepack](mods-and-textures/texturepack.md)
+* [Resourcepack](mods-and-textures/resourcepack.md)
 
 ## 💡 Mechanics and commands
 
