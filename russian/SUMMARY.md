@@ -1,11 +1,8 @@
 # Table of contents
 
 * [Начало](README.md)
-
-## 🤓 Новичкам <a href="#for-newcomers" id="for-newcomers"></a>
-
-* [Начать игру](for-newcomers/start-playing.md)
-* [Первый заход](for-newcomers/first-join.md)
+  * [Начать игру](getting-started/start-playing.md)
+* [Терминология](terminology.md)
 
 ## 📚 Правила <a href="#rules" id="rules"></a>
 
@@ -17,7 +14,7 @@
 
 * [Голосовой чат](mods-and-textures/voice-chat.md)
 * [Эмоции](mods-and-textures/emotes.md)
-* [Текстурпак](mods-and-textures/texturepack.md)
+* [Ресурспак](mods-and-textures/resourcepack.md)
 
 ## 💡 Механики и команды <a href="#mechanics-and-commands" id="mechanics-and-commands"></a>
 
