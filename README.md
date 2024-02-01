@@ -8,28 +8,47 @@
     <br><br>
     <div>
       <a href="https://github.com/MinersStudios/WMDocs/stargazers">
-        <img alt="Stars" src="https://img.shields.io/github/stars/MinersStudios/WMDocs?style=for-the-badge&color=FFF2CC&labelColor=302D41">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/stars/MinersStudios/WMDocs?style=for-the-badge&color=F9EBBF&labelColor=302D41">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/stars/MinersStudios/WMDocs?style=for-the-badge&color=F9EBBF&labelColor=FCF6E4">
+          <img alt="Stars" src="https://img.shields.io/github/stars/MinersStudios/WMDocs?style=for-the-badge&logo=starship&color=F9EBBF&logoColor=D9E0EE&labelColor=302D41">
+        </picture>
       </a>
       <a href="https://github.com/MinersStudios/WMDocs/contributors">
-        <img alt="Contributors" src="https://img.shields.io/github/contributors/MinersStudios/WMDocs?style=for-the-badge&color=d5c3f0&labelColor=302D41">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/contributors/MinersStudios/WMDocs?style=for-the-badge&color=d5c3f0&labelColor=302D41">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/contributors/MinersStudios/WMDocs?style=for-the-badge&color=d5c3f0&labelColor=ECE3F9">
+          <img alt="Contributors" src="https://img.shields.io/github/contributors/MinersStudios/WMDocs?style=for-the-badge&color=d5c3f0&labelColor=302D41">
+        </picture>
       </a>
       <a href="#">
-        <img alt="GitHub code size in bytes" src="https://staging.shields.io/github/languages/code-size/MinersStudios/WMDocs?style=for-the-badge&color=a6da95&labelColor=302D41">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/github/languages/code-size/MinersStudios/WMDocs?style=for-the-badge&color=B0E99E&labelColor=302D41">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/github/languages/code-size/MinersStudios/WMDocs?style=for-the-badge&color=B0E99E&labelColor=E1F9D9">
+          <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/MinersStudios/WMDocs?style=for-the-badge&color=B0E99E&labelColor=302D41">
+        </picture>
       </a>
       <br>
       <a href="https://whomine.net/discord">
-        <img alt="WhoMine Discord" src="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=C9CBFF&logoColor=d9e0ee&labelColor=302d41">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=C9CBFF&logoColor=d9e0ee&labelColor=302D41">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=C9CBFF&logoColor=363636&labelColor=E8E9FF">
+          <img alt="WhoMine Discord" src="https://img.shields.io/discord/928575868643733535?style=for-the-badge&label=WhoMine&logo=discord&color=C9CBFF&logoColor=d9e0ee&labelColor=302D41">
+        </picture>
       </a>
       <a href="https://whomine.net/telegram">
-        <img alt="Telegram" src="https://img.shields.io/badge/telegram-black?logo=Telegram&style=for-the-badge&color=C9CBFF&logoColor=d9e0ee&labelColor=302d41">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&color=C9CBFF&logoColor=d9e0ee&labelColor=302D41">
+          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&color=C9CBFF&logoColor=363636&labelColor=E8E9FF">
+          <img alt="Telegram Channel" src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&color=C9CBFF&logoColor=d9e0ee&labelColor=302D41">
+        </picture>
       </a>
     </div>
     <br>
   </h1>
   <br>
-
   <p>
-    Collection of WhoMine server documentation<br>
+    Repository of documentation for the WhoMine server<br>
     (Project is in development, so there is shit)
   </p>
 </div>
