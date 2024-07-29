@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Issue with main site (whomine.net)
+    url: https://github.com/MinersStudios/WMSite/issues/new/choose
+    about: Please open issues relating to main website in MinersStudios/WMSite
+  - name: 🌐 Website
+    url: https://whomine.net/
+    about: Check out our website
+  - name: 📖 Docs
+    url: https://docs.whomine.net/
+    about: Could be useful for basic player questions
+  - name: 💬 Discord
+    url: https://discord.whomine.net/
+    about: Join our Discord server, questions are answered faster here
