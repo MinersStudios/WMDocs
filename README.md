@@ -47,7 +47,7 @@
     Repository of documentation for the WhoMine server<br>
     (Project is in development, so there is shit)
   </p>
-  <br><br>
+  <br>
   <a href="https://github.com/MinersStudios/WhoMine">
     <picture>
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MinersStudios&repo=WhoMine&icon_color=baa8d5&hide_border=true&border_radius=20&title_color=baa8d5&bg_color=c5c5c91e&cache_seconds=86400">
